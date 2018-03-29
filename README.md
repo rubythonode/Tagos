@@ -5,12 +5,12 @@
 
 A Tag **Editor** and **Selector** based on [spatie/laravel-tags](https://github.com/spatie/laravel-tags).
 
+<h4 align="center">Editor</h4>
 <p align="center">
-    <h5>- Editor</h5>
     <img src="https://user-images.githubusercontent.com/7388088/37996278-64df74b4-3217-11e8-8430-9a30067ec31b.png">
 </p>
+<h4 align="center">Selector</h4>
 <p align="center">
-    <h5>- Selector</h5>
     <img src="https://user-images.githubusercontent.com/7388088/38068467-9407081a-3311-11e8-83a5-eea196fb00e3.png">
 </p>
 
